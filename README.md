@@ -4,8 +4,8 @@ A keyboard-driven command palette that lets visitors jump to any page of [cynbit
 
 > **This is an independent improvement prototype** built for the Cynbit website challenge. It is not integrated into, or part of, the official Cynbit website.
 
-- **Live demo:** _not deployed yet, add your Vercel URL here_
-- **Repository:** _add your GitHub URL here_
+- **Live demo:** https://cynbit-quicknav.vercel.app/
+- **Repository:** https://github.com/Aryan-H2005/Cynbit-Quicknav
 
 ## Problem
 
